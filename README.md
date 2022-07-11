@@ -1,3 +1,7 @@
+This Project was made to get the weather information of that input value(city)
+Axios is used for getting information 
+OpenWeatherMap is used for api's
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
